@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Informace o tvůrcích
 
-### More Information
+### Informace
 
-A place to include any other types of information that you'd like to include about yourself.
+Tato webová stránka vzniká v rámci předmětu Nástroje a možnosti internetu, který je vyučován na KISKu na Masarykově Univerzitě v Brně. 
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[448865@mail.muni.cz](mailto:email@domain.com)

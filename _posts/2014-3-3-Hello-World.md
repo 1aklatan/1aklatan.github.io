@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Nejslavnější pohádkář
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Vše začíná u pohádek. Dětství je jich plné - pohádky vyprávěné rodiči či prarodiči, které nás uchvacují, pohádky v televizi, u kterých by nejedno dítě prosedělo celý víkend, pohádkové knihy, které zaujímá svými ilustracemi a nechávají pracovatt fantazii. V dospělosti se všichni snaží přestat věřit těm pohádkovým příběhům,jež nám byly vyprávěny, ale ne vždy to úplně jde - každý by chtěl happy-ending. Se stářím se pohádky vrací zpět do našich myslí - vyprávíme je vnoučatům, pravnoučatům, vzpomínáme..
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
